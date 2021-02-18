@@ -29,7 +29,9 @@
 ## **Table**
 |Name|Branch|College|CGPA|
 |----|------|-------|----|
-|Uday| CSE  |VRSEC  |8.67|
+|Uday| CSE  |VRSEC  |8.67| 
+
+
  ** CODE **
 ```
  n=int(input())
