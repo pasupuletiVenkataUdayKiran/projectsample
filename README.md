@@ -27,9 +27,10 @@
 ## **link**
 [github](www.github.com)
 ## **Table**
-|Name|Branch|College|CGPA|
-|----|------|-------|----|
-|Uday| CSE  |VRSEC  |8.67| 
+|Name|Branch|College|CGPA|    
+|----|------|-------|----|    
+|Uday| CSE  |VRSEC  |8.67|     
+
 
 
  ** CODE **
